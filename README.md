@@ -1,2 +1,2 @@
 # terraform_VPC
-creating VPC using terraform 
+How to Build AWS VPC using Terraform – Step by Step
