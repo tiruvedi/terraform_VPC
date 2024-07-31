@@ -184,3 +184,9 @@ We have now successfully implemented the VPC design represented in the diagram u
 
 By following the steps above, I hope I have given you a good starting point to build upon
 
+
+Check the below blog for better understand:
+++++++++++++++++++++++++++++++++++++++++++++
+https://spacelift.io/blog/terraform-aws-vpc
+++++++++++++++++++++++++++++++++++++++++++++
+
